@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+gymnasium>=0.29,<1
+
+# Development check only.
+pytest>=7,<9
